@@ -1,0 +1,1 @@
+This is an attempt to make a serious game on history. I particularly focus on the history of India as the content. It comes with dialogues, player interaction and an assessment. The renpy script can be edited to customize the dialogue and change the content images or quiz questions. Have fun in learning history
